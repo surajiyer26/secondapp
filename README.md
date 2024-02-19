@@ -1,3 +1,6 @@
+[secondapp.webm](https://github.com/surajiyer26/secondapp/assets/114157491/151c693c-a55b-4ba1-abfb-b4d1c3a72ad5)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
